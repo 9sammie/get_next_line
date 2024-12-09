@@ -6,14 +6,14 @@
 /*   By: maballet <maballet@student.42lyon.fr>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/04 16:20:26 by maballet          #+#    #+#             */
-/*   Updated: 2024/12/06 18:35:05 by maballet         ###   ########lyon.fr   */
+/*   Updated: 2024/12/09 11:29:52 by maballet         ###   ########lyon.fr   */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef GET_NEXT_LINE_H
 # define GET_NEXT_LINE_H
 # ifndef BUFFER_SIZE
-#  define BUFFER_SIZE 1000000
+#  define BUFFER_SIZE 10
 # endif
 
 # include <unistd.h>
